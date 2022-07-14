@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+        crossorigin="anonymous">
+    <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+        crossorigin="anonymous" defer></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"
+        defer></script>
+    <script src="/js/index.js" defer></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container vh-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-3">
+                <form id="form">
+                    <div class="mb-3">
+                        <label for="title" class="form-label">Title</label>
+                        <input class="form-control" type="text" name="title"
+                            id="title">
+                    </div>
+                    <div class="mb-3">
+                        <label for="price" class="form-label">Price</label>
+                        <input class="form-control" type="number" name="price"
+                            id="price">
+                    </div>
+                    <div class="mb-3">
+                        <label for="thumbnail"
+                            class="form-label">Thumbnail</label>
+                        <input class="form-control" type="text" name="thumbnail"
+                            id="thumbnail">
+                    </div>
+                    <div class="d-grid gap-2">
+                        <button type="submit" id="submit"
+                            class="btn btn-primary">submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

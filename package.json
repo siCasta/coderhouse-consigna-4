@@ -1,0 +1,29 @@
+{
+  "name": "consgigna-4",
+  "version": "1.0.0",
+  "description": "Consigna 4 paara coderhouse",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siCasta/coderhouse-consigna-4.git"
+  },
+  "keywords": [],
+  "author": "Juan Sebastian Castañeda Burbano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siCasta/coderhouse-consigna-4/issues"
+  },
+  "homepage": "https://github.com/siCasta/coderhouse-consigna-4#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jad-db": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

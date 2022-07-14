@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "_id": "1643a1b5-3a60-4cd3-b7a1-097e014e3d78",
+            "title": "aa",
+            "price": 10,
+            "thumbnail": "asdasd",
+            "_createdAt": "2022-07-14T21:08:37.271Z",
+            "_updatedAt": "2022-07-14T21:14:35.893Z"
+        },
+        {
+            "_id": "d4440bbb-1c05-440d-8ea5-0ad9e81f285d",
+            "title": "a",
+            "price": 10,
+            "thumbnail": "asdasd",
+            "_createdAt": "2022-07-14T21:08:38.031Z",
+            "_updatedAt": "2022-07-14T21:08:38.031Z"
+        },
+        {
+            "_id": "7d699050-a753-45ea-b9dc-19bae24268ec",
+            "title": "aa",
+            "price": 10,
+            "thumbnail": "asdasd",
+            "_createdAt": "2022-07-14T21:08:39.382Z",
+            "_updatedAt": "2022-07-14T21:19:20.122Z"
+        },
+        {
+            "_id": "61b58569-4416-481d-ba00-67925086d795",
+            "title": "asd",
+            "price": 123,
+            "thumbnail": "asd",
+            "_createdAt": "2022-07-14T22:04:00.014Z",
+            "_updatedAt": "2022-07-14T22:04:00.014Z"
+        },
+        {
+            "_id": "613281d4-5498-488a-a6f5-3c5213a39f87",
+            "title": "<aASas",
+            "price": 12,
+            "thumbnail": "AS",
+            "_createdAt": "2022-07-14T22:04:41.802Z",
+            "_updatedAt": "2022-07-14T22:04:41.802Z"
+        },
+        {
+            "_id": "d11551a5-dd73-4dbc-b0bd-3d2d60ff8dc2",
+            "title": "WDASDASD",
+            "price": 1231243,
+            "thumbnail": "ZCZXCZ",
+            "_createdAt": "2022-07-14T22:05:01.208Z",
+            "_updatedAt": "2022-07-14T22:05:01.208Z"
+        },
+        {
+            "_id": "785a121c-1ef5-4092-aa66-e6498005d1f2",
+            "title": "asdasdasd",
+            "price": 123,
+            "thumbnail": "asdad",
+            "_createdAt": "2022-07-14T22:29:54.619Z",
+            "_updatedAt": "2022-07-14T22:29:54.619Z"
+        },
+        {
+            "_id": "7ab8544a-a0e1-4724-9ae5-1361abcf2052",
+            "title": "sdasd",
+            "price": 123,
+            "thumbnail": "asd",
+            "_createdAt": "2022-07-14T22:32:05.107Z",
+            "_updatedAt": "2022-07-14T22:32:05.107Z"
+        },
+        {
+            "_id": "eeac6028-0cc2-44b6-b811-3c51f5f728c2",
+            "title": "asdasd",
+            "price": 1231,
+            "thumbnail": "123",
+            "_createdAt": "2022-07-14T22:34:07.663Z",
+            "_updatedAt": "2022-07-14T22:34:07.663Z"
+        },
+        {
+            "_id": "a886f6eb-bf3f-490d-8626-51dc74261f31",
+            "title": "Producto 1",
+            "price": 10000,
+            "thumbnail": "no tine",
+            "_createdAt": "2022-07-14T22:36:04.936Z",
+            "_updatedAt": "2022-07-14T22:36:04.936Z"
+        }
+    ]
+}
